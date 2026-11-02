@@ -1,0 +1,464 @@
+Oct 27 06:17:45 salvo-server sshd[1819]: Accepted password for ben from 192.168.1.45 port 55047 ssh2
+Oct 27 06:17:46 salvo-server sshd[1819]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 06:32:02 salvo-server sshd[2421]: Accepted password for david from 192.168.1.47 port 47836 ssh2
+Oct 27 06:32:03 salvo-server sshd[2421]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 27 06:44:44 salvo-server sshd[2214]: Invalid user ftpuser from 192.0.2.123 port 53762
+Oct 27 06:44:45 salvo-server sshd[2214]: Failed password for invalid user ftpuser from 192.0.2.123 port 53762 ssh2
+Oct 27 06:52:02 salvo-server sshd[2421]: pam_unix(sshd:session): session closed for user david
+Oct 27 07:03:45 salvo-server sshd[1819]: pam_unix(sshd:session): session closed for user ben
+Oct 27 07:04:08 salvo-server sshd[2159]: Accepted password for david from 192.168.1.47 port 42648 ssh2
+Oct 27 07:04:09 salvo-server sshd[2159]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 27 07:14:40 salvo-server sshd[2130]: Accepted password for carmen from 198.51.100.23 port 48769 ssh2
+Oct 27 07:14:41 salvo-server sshd[2130]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 07:16:11 salvo-server sshd[1936]: Invalid user user1 from 192.0.2.199 port 56001
+Oct 27 07:16:12 salvo-server sshd[1936]: Failed password for invalid user user1 from 192.0.2.199 port 56001 ssh2
+Oct 27 07:24:40 salvo-server sshd[2130]: pam_unix(sshd:session): session closed for user carmen
+Oct 27 07:35:53 salvo-server sshd[2013]: Failed password for carmen from 198.51.100.23 port 59100 ssh2
+Oct 27 07:36:53 salvo-server sshd[2274]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 07:39:53 salvo-server sshd[2274]: pam_unix(sshd:session): session closed for user ben
+Oct 27 07:46:08 salvo-server sshd[2159]: pam_unix(sshd:session): session closed for user david
+Oct 27 07:51:28 salvo-server sshd[2182]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 27 08:04:28 salvo-server sshd[2182]: pam_unix(sshd:session): session closed for user david
+Oct 27 08:35:20 salvo-server sshd[2483]: Failed password for alice from 198.51.100.58 port 51646 ssh2
+Oct 27 08:45:28 salvo-server sshd[2388]: Invalid user backup from 192.0.2.85 port 52555
+Oct 27 08:45:29 salvo-server sshd[2388]: Failed password for invalid user backup from 192.0.2.85 port 52555 ssh2
+Oct 27 08:56:15 salvo-server sshd[1808]: Accepted password for david from 192.168.1.47 port 57717 ssh2
+Oct 27 08:56:16 salvo-server sshd[1808]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 27 08:57:06 salvo-server sshd[1827]: Accepted password for tomas from 192.168.1.49 port 42734 ssh2
+Oct 27 08:57:07 salvo-server sshd[1827]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 27 09:00:15 salvo-server sshd[1808]: pam_unix(sshd:session): session closed for user david
+Oct 27 09:16:40 salvo-server sshd[2126]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 09:39:40 salvo-server sshd[2126]: pam_unix(sshd:session): session closed for user priya
+Oct 27 09:42:06 salvo-server sshd[1827]: pam_unix(sshd:session): session closed for user tomas
+Oct 27 09:52:54 salvo-server sshd[2438]: Accepted password for priya from 192.168.1.61 port 53430 ssh2
+Oct 27 09:52:55 salvo-server sshd[2438]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 09:57:54 salvo-server sshd[2438]: pam_unix(sshd:session): session closed for user priya
+Oct 27 10:03:09 salvo-server sshd[2082]: Failed password for carmen from 198.51.100.38 port 60289 ssh2
+Oct 27 10:30:17 salvo-server sshd[1883]: Failed password for tomas from 198.51.100.203 port 43573 ssh2
+Oct 27 10:37:01 salvo-server sshd[2169]: Accepted password for ben from 192.168.1.45 port 51410 ssh2
+Oct 27 10:37:02 salvo-server sshd[2169]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 10:48:01 salvo-server sshd[2169]: pam_unix(sshd:session): session closed for user ben
+Oct 27 11:03:24 salvo-server sshd[2166]: Failed password for david from 192.168.1.47 port 53035 ssh2
+Oct 27 11:06:31 salvo-server sshd[2361]: Accepted password for carmen from 198.51.100.23 port 45155 ssh2
+Oct 27 11:06:32 salvo-server sshd[2361]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 11:11:04 salvo-server sshd[2330]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 27 11:36:04 salvo-server sshd[2330]: pam_unix(sshd:session): session closed for user tomas
+Oct 27 11:49:31 salvo-server sshd[2361]: pam_unix(sshd:session): session closed for user carmen
+Oct 27 11:53:21 salvo-server sshd[2140]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 12:02:23 salvo-server sshd[1926]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 12:26:21 salvo-server sshd[2140]: pam_unix(sshd:session): session closed for user priya
+Oct 27 12:30:02 salvo-server sshd[2270]: Accepted password for carmen from 198.51.100.23 port 47476 ssh2
+Oct 27 12:30:03 salvo-server sshd[2270]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 12:36:02 salvo-server sshd[2270]: pam_unix(sshd:session): session closed for user carmen
+Oct 27 12:36:12 salvo-server sshd[2106]: Invalid user jenkins from 192.0.2.92 port 52275
+Oct 27 12:36:13 salvo-server sshd[2106]: Failed password for invalid user jenkins from 192.0.2.92 port 52275 ssh2
+Oct 27 12:40:27 salvo-server sshd[2224]: Accepted password for tomas from 192.168.1.49 port 59751 ssh2
+Oct 27 12:40:28 salvo-server sshd[2224]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 27 12:42:23 salvo-server sshd[1926]: pam_unix(sshd:session): session closed for user ben
+Oct 27 12:48:27 salvo-server sshd[2224]: pam_unix(sshd:session): session closed for user tomas
+Oct 27 12:52:03 salvo-server sshd[2149]: Failed password for priya from 198.51.100.218 port 50490 ssh2
+Oct 27 12:56:34 salvo-server sshd[1967]: Accepted password for alice from 192.168.1.44 port 41390 ssh2
+Oct 27 12:56:35 salvo-server sshd[1967]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 27 12:59:25 salvo-server sshd[2280]: Accepted password for tomas from 192.168.1.49 port 49974 ssh2
+Oct 27 12:59:26 salvo-server sshd[2280]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 27 13:08:05 salvo-server sshd[2461]: Invalid user postgres from 192.0.2.20 port 44117
+Oct 27 13:08:06 salvo-server sshd[2461]: Failed password for invalid user postgres from 192.0.2.20 port 44117 ssh2
+Oct 27 13:09:16 salvo-server sshd[1976]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 13:09:34 salvo-server sshd[1967]: pam_unix(sshd:session): session closed for user alice
+Oct 27 13:26:25 salvo-server sshd[2247]: Invalid user student from 192.0.2.39 port 42458
+Oct 27 13:26:26 salvo-server sshd[2247]: Failed password for invalid user student from 192.0.2.39 port 42458 ssh2
+Oct 27 13:29:16 salvo-server sshd[1976]: pam_unix(sshd:session): session closed for user carmen
+Oct 27 13:36:25 salvo-server sshd[2280]: pam_unix(sshd:session): session closed for user tomas
+Oct 27 13:48:38 salvo-server sshd[2339]: Invalid user backup from 192.0.2.107 port 51420
+Oct 27 13:48:39 salvo-server sshd[2339]: Failed password for invalid user backup from 192.0.2.107 port 51420 ssh2
+Oct 27 13:56:53 salvo-server sshd[2446]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 14:11:27 salvo-server sshd[1862]: Invalid user backup from 192.0.2.197 port 53246
+Oct 27 14:11:28 salvo-server sshd[1862]: Failed password for invalid user backup from 192.0.2.197 port 53246 ssh2
+Oct 27 14:11:54 salvo-server sshd[2154]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 14:25:53 salvo-server sshd[2446]: pam_unix(sshd:session): session closed for user priya
+Oct 27 14:31:00 salvo-server sshd[2094]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 14:35:54 salvo-server sshd[2154]: pam_unix(sshd:session): session closed for user ben
+Oct 27 14:37:10 salvo-server sshd[2050]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 27 14:39:40 salvo-server sshd[1848]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 27 14:40:00 salvo-server sshd[2094]: pam_unix(sshd:session): session closed for user carmen
+Oct 27 14:48:10 salvo-server sshd[2050]: pam_unix(sshd:session): session closed for user alice
+Oct 27 14:58:21 salvo-server sshd[1902]: Accepted password for priya from 192.168.1.61 port 57792 ssh2
+Oct 27 14:58:22 salvo-server sshd[1902]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 15:01:40 salvo-server sshd[1848]: pam_unix(sshd:session): session closed for user alice
+Oct 27 15:07:01 salvo-server sshd[2018]: Failed password for david from 192.168.1.47 port 59111 ssh2
+Oct 27 15:08:19 salvo-server sshd[2311]: Failed password for alice from 192.168.1.44 port 55034 ssh2
+Oct 27 15:08:21 salvo-server sshd[1902]: pam_unix(sshd:session): session closed for user priya
+Oct 27 15:13:41 salvo-server sshd[2390]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 27 15:15:16 salvo-server sshd[2296]: Failed password for ben from 192.168.1.45 port 51256 ssh2
+Oct 27 15:27:51 salvo-server sshd[1960]: Accepted password for alice from 192.168.1.44 port 52754 ssh2
+Oct 27 15:27:52 salvo-server sshd[1960]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 27 15:34:41 salvo-server sshd[2390]: pam_unix(sshd:session): session closed for user tomas
+Oct 27 15:54:21 salvo-server sshd[1855]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 27 15:56:51 salvo-server sshd[1960]: pam_unix(sshd:session): session closed for user alice
+Oct 27 15:57:21 salvo-server sshd[2406]: Failed password for carmen from 198.51.100.62 port 60037 ssh2
+Oct 27 15:58:57 salvo-server sshd[2195]: Accepted password for alice from 192.168.1.44 port 52729 ssh2
+Oct 27 15:58:58 salvo-server sshd[2195]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 27 16:16:21 salvo-server sshd[1855]: pam_unix(sshd:session): session closed for user alice
+Oct 27 16:19:57 salvo-server sshd[2195]: pam_unix(sshd:session): session closed for user alice
+Oct 27 16:36:44 salvo-server sshd[2309]: Invalid user user1 from 192.0.2.75 port 46221
+Oct 27 16:36:45 salvo-server sshd[2309]: Failed password for invalid user user1 from 192.0.2.75 port 46221 ssh2
+Oct 27 16:36:49 salvo-server sshd[2115]: Accepted password for priya from 192.168.1.61 port 42934 ssh2
+Oct 27 16:36:50 salvo-server sshd[2115]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 16:39:01 salvo-server sshd[2201]: Accepted password for priya from 192.168.1.61 port 49431 ssh2
+Oct 27 16:39:02 salvo-server sshd[2201]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 17:00:52 salvo-server sshd[2474]: Failed password for priya from 198.51.100.204 port 56254 ssh2
+Oct 27 17:02:49 salvo-server sshd[2115]: pam_unix(sshd:session): session closed for user priya
+Oct 27 17:04:01 salvo-server sshd[2201]: pam_unix(sshd:session): session closed for user priya
+Oct 27 17:17:56 salvo-server sshd[2343]: Invalid user student from 192.0.2.101 port 53376
+Oct 27 17:17:57 salvo-server sshd[2343]: Failed password for invalid user student from 192.0.2.101 port 53376 ssh2
+Oct 27 17:38:04 salvo-server sshd[2323]: Invalid user jenkins from 192.0.2.123 port 59589
+Oct 27 17:38:05 salvo-server sshd[2323]: Failed password for invalid user jenkins from 192.0.2.123 port 59589 ssh2
+Oct 27 17:53:37 salvo-server sshd[2051]: Invalid user test from 192.0.2.47 port 56266
+Oct 27 17:53:38 salvo-server sshd[2051]: Failed password for invalid user test from 192.0.2.47 port 56266 ssh2
+Oct 27 18:05:03 salvo-server sshd[1982]: Accepted password for carmen from 198.51.100.23 port 50690 ssh2
+Oct 27 18:05:04 salvo-server sshd[1982]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 18:22:13 salvo-server sshd[2121]: Failed password for carmen from 198.51.100.144 port 57508 ssh2
+Oct 27 18:23:00 salvo-server sshd[2143]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 27 18:37:51 salvo-server sshd[2258]: Failed password for tomas from 198.51.100.105 port 40036 ssh2
+Oct 27 18:38:57 salvo-server sshd[2411]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 18:48:57 salvo-server sshd[2411]: pam_unix(sshd:session): session closed for user ben
+Oct 27 18:53:00 salvo-server sshd[2143]: pam_unix(sshd:session): session closed for user alice
+Oct 27 18:58:03 salvo-server sshd[1982]: pam_unix(sshd:session): session closed for user carmen
+Oct 27 19:46:09 salvo-server sshd[1858]: Accepted password for priya from 192.168.1.61 port 51525 ssh2
+Oct 27 19:46:10 salvo-server sshd[1858]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 19:48:40 salvo-server sshd[2286]: Failed password for carmen from 198.51.100.23 port 46670 ssh2
+Oct 27 19:50:09 salvo-server sshd[1858]: pam_unix(sshd:session): session closed for user priya
+Oct 27 19:53:03 salvo-server sshd[2188]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 20:06:22 salvo-server sshd[1971]: Accepted password for tomas from 192.168.1.49 port 49503 ssh2
+Oct 27 20:06:23 salvo-server sshd[1971]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 27 20:11:03 salvo-server sshd[2188]: pam_unix(sshd:session): session closed for user priya
+Oct 27 20:14:55 salvo-server sshd[2492]: Accepted password for ben from 192.168.1.45 port 50759 ssh2
+Oct 27 20:14:56 salvo-server sshd[2492]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 20:25:55 salvo-server sshd[2492]: pam_unix(sshd:session): session closed for user ben
+Oct 27 20:28:34 salvo-server sshd[2441]: Failed password for alice from 198.51.100.121 port 54152 ssh2
+Oct 27 20:28:49 salvo-server sshd[2460]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 20:29:31 salvo-server sshd[2302]: Accepted password for carmen from 198.51.100.23 port 50957 ssh2
+Oct 27 20:29:32 salvo-server sshd[2302]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 20:31:49 salvo-server sshd[2460]: pam_unix(sshd:session): session closed for user ben
+Oct 27 20:46:31 salvo-server sshd[2302]: pam_unix(sshd:session): session closed for user carmen
+Oct 27 20:57:22 salvo-server sshd[1971]: pam_unix(sshd:session): session closed for user tomas
+Oct 27 20:57:55 salvo-server sshd[2053]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 20:59:28 salvo-server sshd[1907]: Failed password for alice from 192.168.1.44 port 57391 ssh2
+Oct 27 21:03:43 salvo-server sshd[1826]: Accepted password for ben from 192.168.1.45 port 55197 ssh2
+Oct 27 21:03:44 salvo-server sshd[1826]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 21:06:14 salvo-server sshd[2175]: Accepted password for david from 192.168.1.47 port 52830 ssh2
+Oct 27 21:06:15 salvo-server sshd[2175]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 27 21:11:16 salvo-server sshd[2488]: Accepted password for priya from 192.168.1.61 port 55720 ssh2
+Oct 27 21:11:17 salvo-server sshd[2488]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 27 21:13:55 salvo-server sshd[2053]: pam_unix(sshd:session): session closed for user priya
+Oct 27 21:20:43 salvo-server sshd[1826]: pam_unix(sshd:session): session closed for user ben
+Oct 27 21:29:16 salvo-server sshd[2488]: pam_unix(sshd:session): session closed for user priya
+Oct 27 21:44:14 salvo-server sshd[2175]: pam_unix(sshd:session): session closed for user david
+Oct 27 22:05:32 salvo-server sshd[2111]: Failed password for carmen from 198.51.100.23 port 46411 ssh2
+Oct 27 22:11:50 salvo-server sshd[2120]: Accepted password for ben from 192.168.1.45 port 41304 ssh2
+Oct 27 22:11:51 salvo-server sshd[2120]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 27 22:44:50 salvo-server sshd[2120]: pam_unix(sshd:session): session closed for user ben
+Oct 27 23:06:40 salvo-server sshd[2028]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 27 23:07:23 salvo-server sshd[1843]: Accepted password for carmen from 198.51.100.23 port 43270 ssh2
+Oct 27 23:07:24 salvo-server sshd[1843]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 27 23:17:40 salvo-server sshd[2028]: pam_unix(sshd:session): session closed for user david
+Oct 27 23:26:02 salvo-server sshd[1836]: Invalid user backup from 192.0.2.51 port 52639
+Oct 27 23:26:03 salvo-server sshd[1836]: Failed password for invalid user backup from 192.0.2.51 port 52639 ssh2
+Oct 27 23:37:23 salvo-server sshd[1843]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 01:02:23 salvo-server sshd[1991]: Invalid user guest1 from 192.0.2.194 port 59194
+Oct 28 01:02:24 salvo-server sshd[1991]: Failed password for invalid user guest1 from 192.0.2.194 port 59194 ssh2
+Oct 28 01:12:42 salvo-server sshd[2288]: Accepted password for tomas from 192.168.1.49 port 56932 ssh2
+Oct 28 01:12:43 salvo-server sshd[2288]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 01:16:33 salvo-server sshd[1914]: Failed password for tomas from 192.168.1.49 port 44220 ssh2
+Oct 28 01:18:42 salvo-server sshd[2288]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 01:22:04 salvo-server sshd[2324]: Accepted password for carmen from 198.51.100.23 port 60653 ssh2
+Oct 28 01:22:05 salvo-server sshd[2324]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 01:38:46 salvo-server sshd[2260]: Accepted password for tomas from 192.168.1.49 port 40191 ssh2
+Oct 28 01:38:47 salvo-server sshd[2260]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 01:49:11 salvo-server sshd[2066]: Accepted password for alice from 192.168.1.44 port 57056 ssh2
+Oct 28 01:49:12 salvo-server sshd[2066]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 02:03:04 salvo-server sshd[2324]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 02:03:11 salvo-server sshd[2066]: pam_unix(sshd:session): session closed for user alice
+Oct 28 02:22:46 salvo-server sshd[2260]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 02:24:17 salvo-server sshd[2336]: Invalid user test from 192.0.2.192 port 53425
+Oct 28 02:24:18 salvo-server sshd[2336]: Failed password for invalid user test from 192.0.2.192 port 53425 ssh2
+Oct 28 02:34:15 salvo-server sshd[1896]: Accepted password for david from 192.168.1.47 port 59105 ssh2
+Oct 28 02:34:16 salvo-server sshd[1896]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 02:47:08 salvo-server sshd[2002]: Invalid user guest1 from 192.0.2.38 port 60636
+Oct 28 02:47:09 salvo-server sshd[2002]: Failed password for invalid user guest1 from 192.0.2.38 port 60636 ssh2
+Oct 28 03:02:11 salvo-server sshd[2503]: Failed password for root from 203.0.113.47 port 52710 ssh2
+Oct 28 03:02:36 salvo-server sshd[2508]: Invalid user admin from 203.0.113.47 port 58160
+Oct 28 03:02:37 salvo-server sshd[2508]: Failed password for invalid user admin from 203.0.113.47 port 58160 ssh2
+Oct 28 03:02:49 salvo-server sshd[2510]: Invalid user ubuntu from 203.0.113.47 port 51854
+Oct 28 03:02:50 salvo-server sshd[2510]: Failed password for invalid user ubuntu from 203.0.113.47 port 51854 ssh2
+Oct 28 03:03:01 salvo-server sshd[2512]: Invalid user oracle from 203.0.113.47 port 46399
+Oct 28 03:03:02 salvo-server sshd[2512]: Failed password for invalid user oracle from 203.0.113.47 port 46399 ssh2
+Oct 28 03:03:21 salvo-server sshd[2518]: Invalid user guest from 203.0.113.47 port 40381
+Oct 28 03:03:22 salvo-server sshd[2518]: Failed password for invalid user guest from 203.0.113.47 port 40381 ssh2
+Oct 28 03:03:37 salvo-server sshd[2521]: Invalid user test from 203.0.113.47 port 59415
+Oct 28 03:03:38 salvo-server sshd[2521]: Failed password for invalid user test from 203.0.113.47 port 59415 ssh2
+Oct 28 03:03:58 salvo-server sshd[2525]: Failed password for priya from 203.0.113.47 port 44269 ssh2
+Oct 28 03:04:09 salvo-server sshd[2528]: Failed password for root from 203.0.113.47 port 50369 ssh2
+Oct 28 03:04:27 salvo-server sshd[2530]: Invalid user admin from 203.0.113.47 port 52895
+Oct 28 03:04:28 salvo-server sshd[2530]: Failed password for invalid user admin from 203.0.113.47 port 52895 ssh2
+Oct 28 03:04:47 salvo-server sshd[2537]: Invalid user ubuntu from 203.0.113.47 port 43749
+Oct 28 03:04:48 salvo-server sshd[2537]: Failed password for invalid user ubuntu from 203.0.113.47 port 43749 ssh2
+Oct 28 03:05:03 salvo-server sshd[2538]: Invalid user oracle from 203.0.113.47 port 47047
+Oct 28 03:05:04 salvo-server sshd[2538]: Failed password for invalid user oracle from 203.0.113.47 port 47047 ssh2
+Oct 28 03:05:21 salvo-server sshd[2543]: Invalid user guest from 203.0.113.47 port 51577
+Oct 28 03:05:22 salvo-server sshd[2543]: Failed password for invalid user guest from 203.0.113.47 port 51577 ssh2
+Oct 28 03:05:40 salvo-server sshd[2544]: Invalid user test from 203.0.113.47 port 43002
+Oct 28 03:05:41 salvo-server sshd[2544]: Failed password for invalid user test from 203.0.113.47 port 43002 ssh2
+Oct 28 03:05:52 salvo-server sshd[2546]: Failed password for priya from 203.0.113.47 port 46062 ssh2
+Oct 28 03:06:02 salvo-server sshd[2553]: Failed password for root from 203.0.113.47 port 54840 ssh2
+Oct 28 03:06:19 salvo-server sshd[2560]: Invalid user admin from 203.0.113.47 port 56000
+Oct 28 03:06:20 salvo-server sshd[2560]: Failed password for invalid user admin from 203.0.113.47 port 56000 ssh2
+Oct 28 03:06:45 salvo-server sshd[2567]: Invalid user ubuntu from 203.0.113.47 port 59978
+Oct 28 03:06:46 salvo-server sshd[2567]: Failed password for invalid user ubuntu from 203.0.113.47 port 59978 ssh2
+Oct 28 03:07:01 salvo-server sshd[2574]: Invalid user oracle from 203.0.113.47 port 48963
+Oct 28 03:07:02 salvo-server sshd[2574]: Failed password for invalid user oracle from 203.0.113.47 port 48963 ssh2
+Oct 28 03:07:16 salvo-server sshd[2575]: Invalid user guest from 203.0.113.47 port 55791
+Oct 28 03:07:17 salvo-server sshd[2575]: Failed password for invalid user guest from 203.0.113.47 port 55791 ssh2
+Oct 28 03:07:38 salvo-server sshd[2581]: Invalid user test from 203.0.113.47 port 50193
+Oct 28 03:07:39 salvo-server sshd[2581]: Failed password for invalid user test from 203.0.113.47 port 50193 ssh2
+Oct 28 03:07:51 salvo-server sshd[2586]: Failed password for priya from 203.0.113.47 port 56716 ssh2
+Oct 28 03:08:14 salvo-server sshd[2588]: Failed password for root from 203.0.113.47 port 42354 ssh2
+Oct 28 03:08:30 salvo-server sshd[2593]: Invalid user admin from 203.0.113.47 port 58713
+Oct 28 03:08:31 salvo-server sshd[2593]: Failed password for invalid user admin from 203.0.113.47 port 58713 ssh2
+Oct 28 03:08:41 salvo-server sshd[2594]: Invalid user ubuntu from 203.0.113.47 port 58266
+Oct 28 03:08:42 salvo-server sshd[2594]: Failed password for invalid user ubuntu from 203.0.113.47 port 58266 ssh2
+Oct 28 03:09:03 salvo-server sshd[2600]: Invalid user oracle from 203.0.113.47 port 40107
+Oct 28 03:09:04 salvo-server sshd[2600]: Failed password for invalid user oracle from 203.0.113.47 port 40107 ssh2
+Oct 28 03:09:22 salvo-server sshd[2606]: Invalid user guest from 203.0.113.47 port 48077
+Oct 28 03:09:23 salvo-server sshd[2606]: Failed password for invalid user guest from 203.0.113.47 port 48077 ssh2
+Oct 28 03:09:41 salvo-server sshd[2612]: Invalid user test from 203.0.113.47 port 60516
+Oct 28 03:09:42 salvo-server sshd[2612]: Failed password for invalid user test from 203.0.113.47 port 60516 ssh2
+Oct 28 03:09:54 salvo-server sshd[2617]: Failed password for priya from 203.0.113.47 port 50762 ssh2
+Oct 28 03:10:09 salvo-server sshd[2622]: Failed password for root from 203.0.113.47 port 58733 ssh2
+Oct 28 03:10:25 salvo-server sshd[2626]: Invalid user admin from 203.0.113.47 port 45762
+Oct 28 03:10:26 salvo-server sshd[2626]: Failed password for invalid user admin from 203.0.113.47 port 45762 ssh2
+Oct 28 03:10:37 salvo-server sshd[2628]: Invalid user ubuntu from 203.0.113.47 port 41352
+Oct 28 03:10:38 salvo-server sshd[2628]: Failed password for invalid user ubuntu from 203.0.113.47 port 41352 ssh2
+Oct 28 03:10:56 salvo-server sshd[2632]: Invalid user oracle from 203.0.113.47 port 51385
+Oct 28 03:10:57 salvo-server sshd[2632]: Failed password for invalid user oracle from 203.0.113.47 port 51385 ssh2
+Oct 28 03:11:08 salvo-server sshd[2634]: Invalid user guest from 203.0.113.47 port 56339
+Oct 28 03:11:09 salvo-server sshd[2634]: Failed password for invalid user guest from 203.0.113.47 port 56339 ssh2
+Oct 28 03:11:21 salvo-server sshd[2638]: Invalid user test from 203.0.113.47 port 44807
+Oct 28 03:11:22 salvo-server sshd[2638]: Failed password for invalid user test from 203.0.113.47 port 44807 ssh2
+Oct 28 03:11:37 salvo-server sshd[2642]: Failed password for priya from 203.0.113.47 port 59805 ssh2
+Oct 28 03:11:58 salvo-server sshd[2645]: Failed password for root from 203.0.113.47 port 58953 ssh2
+Oct 28 03:12:21 salvo-server sshd[2648]: Invalid user admin from 203.0.113.47 port 42922
+Oct 28 03:12:22 salvo-server sshd[2648]: Failed password for invalid user admin from 203.0.113.47 port 42922 ssh2
+Oct 28 03:12:37 salvo-server sshd[2655]: Invalid user ubuntu from 203.0.113.47 port 48417
+Oct 28 03:12:38 salvo-server sshd[2655]: Failed password for invalid user ubuntu from 203.0.113.47 port 48417 ssh2
+Oct 28 03:12:56 salvo-server sshd[2660]: Failed password for priya from 203.0.113.47 port 40794 ssh2
+Oct 28 03:13:15 salvo-server sshd[1896]: pam_unix(sshd:session): session closed for user david
+Oct 28 03:13:19 salvo-server sshd[2661]: Failed password for priya from 203.0.113.47 port 44613 ssh2
+Oct 28 03:13:29 salvo-server sshd[2663]: Failed password for priya from 203.0.113.47 port 59993 ssh2
+Oct 28 03:13:52 salvo-server sshd[2669]: Failed password for priya from 203.0.113.47 port 52085 ssh2
+Oct 28 03:14:10 salvo-server sshd[2673]: Failed password for priya from 203.0.113.47 port 42640 ssh2
+Oct 28 03:14:21 salvo-server sshd[2676]: Failed password for priya from 203.0.113.47 port 40540 ssh2
+Oct 28 03:14:41 salvo-server sshd[2681]: Failed password for priya from 203.0.113.47 port 60660 ssh2
+Oct 28 03:14:57 salvo-server sshd[2686]: Failed password for priya from 203.0.113.47 port 47123 ssh2
+Oct 28 03:15:12 salvo-server sshd[2688]: Failed password for priya from 203.0.113.47 port 42889 ssh2
+Oct 28 03:17:42 salvo-server sshd[2692]: Accepted password for priya from 203.0.113.47 port 51234 ssh2
+Oct 28 03:17:43 salvo-server sshd[2692]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 03:35:26 salvo-server sshd[2415]: Accepted password for david from 192.168.1.47 port 60024 ssh2
+Oct 28 03:35:27 salvo-server sshd[2415]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 03:45:17 salvo-server sshd[2010]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 03:49:51 salvo-server sshd[2131]: Accepted password for ben from 192.168.1.45 port 41310 ssh2
+Oct 28 03:49:52 salvo-server sshd[2131]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 03:53:07 salvo-server sshd[1906]: Accepted password for ben from 192.168.1.45 port 46876 ssh2
+Oct 28 03:53:08 salvo-server sshd[1906]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 03:54:35 salvo-server sshd[1920]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 03:55:51 salvo-server sshd[2131]: pam_unix(sshd:session): session closed for user ben
+Oct 28 04:03:15 salvo-server sshd[1957]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 04:04:22 salvo-server sshd[2430]: Invalid user jenkins from 192.0.2.71 port 56321
+Oct 28 04:04:23 salvo-server sshd[2430]: Failed password for invalid user jenkins from 192.0.2.71 port 56321 ssh2
+Oct 28 04:05:17 salvo-server sshd[2010]: pam_unix(sshd:session): session closed for user alice
+Oct 28 04:11:19 salvo-server sshd[2037]: Accepted password for ben from 192.168.1.45 port 55748 ssh2
+Oct 28 04:11:20 salvo-server sshd[2037]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 04:11:35 salvo-server sshd[1920]: pam_unix(sshd:session): session closed for user priya
+Oct 28 04:12:15 salvo-server sshd[1957]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 04:17:26 salvo-server sshd[2415]: pam_unix(sshd:session): session closed for user david
+Oct 28 04:22:48 salvo-server sshd[2329]: Invalid user jenkins from 192.0.2.84 port 47318
+Oct 28 04:22:49 salvo-server sshd[2329]: Failed password for invalid user jenkins from 192.0.2.84 port 47318 ssh2
+Oct 28 04:27:26 salvo-server sshd[2382]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 04:31:42 salvo-server sshd[2402]: Accepted password for alice from 192.168.1.44 port 40993 ssh2
+Oct 28 04:31:43 salvo-server sshd[2402]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 04:33:17 salvo-server sshd[2081]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 04:34:19 salvo-server sshd[2092]: Failed password for alice from 192.168.1.44 port 52887 ssh2
+Oct 28 04:35:42 salvo-server sshd[2402]: pam_unix(sshd:session): session closed for user alice
+Oct 28 04:36:19 salvo-server sshd[2037]: pam_unix(sshd:session): session closed for user ben
+Oct 28 04:42:07 salvo-server sshd[1906]: pam_unix(sshd:session): session closed for user ben
+Oct 28 04:45:26 salvo-server sshd[2382]: pam_unix(sshd:session): session closed for user david
+Oct 28 05:07:17 salvo-server sshd[2081]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 05:35:06 salvo-server sshd[1995]: Invalid user backup from 192.0.2.38 port 47739
+Oct 28 05:35:07 salvo-server sshd[1995]: Failed password for invalid user backup from 192.0.2.38 port 47739 ssh2
+Oct 28 05:36:28 salvo-server sshd[2357]: Failed password for ben from 192.168.1.45 port 58868 ssh2
+Oct 28 05:56:51 salvo-server sshd[2017]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 06:04:16 salvo-server sshd[2229]: Accepted password for priya from 192.168.1.61 port 47256 ssh2
+Oct 28 06:04:17 salvo-server sshd[2229]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 06:16:19 salvo-server sshd[2443]: Failed password for alice from 192.168.1.44 port 50156 ssh2
+Oct 28 06:17:03 salvo-server sshd[1985]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 06:28:03 salvo-server sshd[1985]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 06:33:51 salvo-server sshd[2017]: pam_unix(sshd:session): session closed for user ben
+Oct 28 06:34:11 salvo-server sshd[2061]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 06:45:11 salvo-server sshd[2061]: pam_unix(sshd:session): session closed for user david
+Oct 28 06:47:06 salvo-server sshd[1955]: Accepted password for carmen from 198.51.100.23 port 55677 ssh2
+Oct 28 06:47:07 salvo-server sshd[1955]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 06:49:16 salvo-server sshd[2229]: pam_unix(sshd:session): session closed for user priya
+Oct 28 06:58:06 salvo-server sshd[1955]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 07:09:37 salvo-server sshd[2328]: Accepted password for tomas from 192.168.1.49 port 44071 ssh2
+Oct 28 07:09:38 salvo-server sshd[2328]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 07:25:37 salvo-server sshd[2328]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 07:45:42 salvo-server sshd[1876]: Accepted password for priya from 192.168.1.61 port 45053 ssh2
+Oct 28 07:45:43 salvo-server sshd[1876]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 07:56:06 salvo-server sshd[2377]: Invalid user test from 192.0.2.107 port 46180
+Oct 28 07:56:07 salvo-server sshd[2377]: Failed password for invalid user test from 192.0.2.107 port 46180 ssh2
+Oct 28 07:58:42 salvo-server sshd[1876]: pam_unix(sshd:session): session closed for user priya
+Oct 28 08:40:48 salvo-server sshd[2316]: Accepted password for tomas from 192.168.1.49 port 44312 ssh2
+Oct 28 08:40:49 salvo-server sshd[2316]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 08:51:23 salvo-server sshd[2264]: Failed password for carmen from 198.51.100.23 port 52338 ssh2
+Oct 28 08:51:31 salvo-server sshd[2076]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 09:03:07 salvo-server sshd[2485]: Accepted password for carmen from 198.51.100.23 port 53315 ssh2
+Oct 28 09:03:08 salvo-server sshd[2485]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 09:09:43 salvo-server sshd[2481]: Accepted password for tomas from 192.168.1.49 port 60094 ssh2
+Oct 28 09:09:44 salvo-server sshd[2481]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 09:14:48 salvo-server sshd[2316]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 09:25:43 salvo-server sshd[2481]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 09:28:28 salvo-server sshd[2472]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 09:29:31 salvo-server sshd[2076]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 09:35:35 salvo-server sshd[2023]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 09:46:35 salvo-server sshd[2023]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 09:51:07 salvo-server sshd[2485]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 09:57:10 salvo-server sshd[2065]: Accepted password for carmen from 198.51.100.23 port 53858 ssh2
+Oct 28 09:57:11 salvo-server sshd[2065]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 09:57:19 salvo-server sshd[1889]: Invalid user jenkins from 192.0.2.112 port 51613
+Oct 28 09:57:20 salvo-server sshd[1889]: Failed password for invalid user jenkins from 192.0.2.112 port 51613 ssh2
+Oct 28 09:59:40 salvo-server sshd[2225]: Accepted password for carmen from 198.51.100.23 port 44658 ssh2
+Oct 28 09:59:41 salvo-server sshd[2225]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 10:06:28 salvo-server sshd[2472]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 10:23:27 salvo-server sshd[2374]: Accepted password for david from 192.168.1.47 port 52098 ssh2
+Oct 28 10:23:28 salvo-server sshd[2374]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 10:23:35 salvo-server sshd[2030]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 10:25:47 salvo-server sshd[2463]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 10:30:35 salvo-server sshd[2030]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 10:31:40 salvo-server sshd[1898]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 10:32:26 salvo-server sshd[2208]: Accepted password for alice from 192.168.1.44 port 41450 ssh2
+Oct 28 10:32:27 salvo-server sshd[2208]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 10:39:35 salvo-server sshd[1948]: Accepted password for carmen from 198.51.100.23 port 56310 ssh2
+Oct 28 10:39:36 salvo-server sshd[1948]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 10:42:10 salvo-server sshd[2065]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 10:42:40 salvo-server sshd[2225]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 10:43:47 salvo-server sshd[2463]: pam_unix(sshd:session): session closed for user david
+Oct 28 10:52:27 salvo-server sshd[2374]: pam_unix(sshd:session): session closed for user david
+Oct 28 10:54:18 salvo-server sshd[1833]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 10:54:40 salvo-server sshd[1898]: pam_unix(sshd:session): session closed for user ben
+Oct 28 11:07:18 salvo-server sshd[1833]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 11:15:17 salvo-server sshd[1881]: Accepted password for tomas from 192.168.1.49 port 54810 ssh2
+Oct 28 11:15:18 salvo-server sshd[1881]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 11:15:35 salvo-server sshd[1948]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 11:19:40 salvo-server sshd[1994]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 11:21:17 salvo-server sshd[1881]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 11:21:26 salvo-server sshd[2208]: pam_unix(sshd:session): session closed for user alice
+Oct 28 11:27:56 salvo-server sshd[2371]: Accepted password for tomas from 192.168.1.49 port 49049 ssh2
+Oct 28 11:27:57 salvo-server sshd[2371]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 11:28:54 salvo-server sshd[2398]: Accepted password for david from 192.168.1.47 port 41225 ssh2
+Oct 28 11:28:55 salvo-server sshd[2398]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 11:41:40 salvo-server sshd[1994]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 11:43:56 salvo-server sshd[2371]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 12:06:19 salvo-server sshd[2074]: Accepted password for priya from 192.168.1.61 port 48105 ssh2
+Oct 28 12:06:20 salvo-server sshd[2074]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 12:09:54 salvo-server sshd[2398]: pam_unix(sshd:session): session closed for user david
+Oct 28 12:21:12 salvo-server sshd[2345]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 12:35:11 salvo-server sshd[2043]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 12:43:23 salvo-server sshd[2077]: Accepted password for carmen from 198.51.100.23 port 59344 ssh2
+Oct 28 12:43:24 salvo-server sshd[2077]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 12:49:11 salvo-server sshd[2043]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 12:56:12 salvo-server sshd[2345]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 12:59:19 salvo-server sshd[2074]: pam_unix(sshd:session): session closed for user priya
+Oct 28 13:14:23 salvo-server sshd[2077]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 13:32:58 salvo-server sshd[2290]: Failed password for carmen from 198.51.100.217 port 59887 ssh2
+Oct 28 14:06:38 salvo-server sshd[2271]: Invalid user backup from 192.0.2.46 port 54012
+Oct 28 14:06:39 salvo-server sshd[2271]: Failed password for invalid user backup from 192.0.2.46 port 54012 ssh2
+Oct 28 14:07:30 salvo-server sshd[2341]: Accepted password for alice from 192.168.1.44 port 40721 ssh2
+Oct 28 14:07:31 salvo-server sshd[2341]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 14:14:30 salvo-server sshd[2341]: pam_unix(sshd:session): session closed for user alice
+Oct 28 14:21:26 salvo-server sshd[2235]: Accepted password for david from 192.168.1.47 port 55578 ssh2
+Oct 28 14:21:27 salvo-server sshd[2235]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 14:28:16 salvo-server sshd[2252]: Failed password for alice from 192.168.1.44 port 53768 ssh2
+Oct 28 14:39:10 salvo-server sshd[1939]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 14:45:10 salvo-server sshd[1939]: pam_unix(sshd:session): session closed for user ben
+Oct 28 14:51:49 salvo-server sshd[2352]: Accepted password for alice from 192.168.1.44 port 45895 ssh2
+Oct 28 14:51:50 salvo-server sshd[2352]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 14:52:26 salvo-server sshd[2235]: pam_unix(sshd:session): session closed for user david
+Oct 28 15:36:49 salvo-server sshd[2352]: pam_unix(sshd:session): session closed for user alice
+Oct 28 15:39:01 salvo-server sshd[1813]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 15:44:01 salvo-server sshd[1813]: pam_unix(sshd:session): session closed for user ben
+Oct 28 15:49:20 salvo-server sshd[2498]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 15:56:49 salvo-server sshd[2241]: Accepted password for alice from 192.168.1.44 port 42420 ssh2
+Oct 28 15:56:50 salvo-server sshd[2241]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 16:10:02 salvo-server sshd[2005]: Invalid user test from 192.0.2.80 port 57723
+Oct 28 16:10:03 salvo-server sshd[2005]: Failed password for invalid user test from 192.0.2.80 port 57723 ssh2
+Oct 28 16:15:54 salvo-server sshd[2099]: Failed password for carmen from 198.51.100.202 port 47825 ssh2
+Oct 28 16:20:49 salvo-server sshd[2241]: pam_unix(sshd:session): session closed for user alice
+Oct 28 16:21:37 salvo-server sshd[2138]: Invalid user user1 from 192.0.2.14 port 40633
+Oct 28 16:21:38 salvo-server sshd[2138]: Failed password for invalid user user1 from 192.0.2.14 port 40633 ssh2
+Oct 28 16:22:20 salvo-server sshd[2498]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 16:28:15 salvo-server sshd[2471]: Failed password for alice from 192.168.1.44 port 46008 ssh2
+Oct 28 16:36:52 salvo-server sshd[2366]: Failed password for ben from 198.51.100.85 port 43917 ssh2
+Oct 28 16:41:41 salvo-server sshd[1944]: Invalid user test from 192.0.2.94 port 40665
+Oct 28 16:41:42 salvo-server sshd[1944]: Failed password for invalid user test from 192.0.2.94 port 40665 ssh2
+Oct 28 16:48:04 salvo-server sshd[2468]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 17:11:04 salvo-server sshd[2468]: pam_unix(sshd:session): session closed for user priya
+Oct 28 17:49:07 salvo-server sshd[2057]: Accepted password for carmen from 198.51.100.23 port 57490 ssh2
+Oct 28 17:49:08 salvo-server sshd[2057]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 17:57:42 salvo-server sshd[2087]: Accepted password for alice from 192.168.1.44 port 45780 ssh2
+Oct 28 17:57:43 salvo-server sshd[2087]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 18:31:42 salvo-server sshd[2087]: pam_unix(sshd:session): session closed for user alice
+Oct 28 18:36:07 salvo-server sshd[2057]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 18:53:14 salvo-server sshd[2144]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 19:01:53 salvo-server sshd[2069]: Failed password for david from 198.51.100.163 port 47870 ssh2
+Oct 28 19:05:14 salvo-server sshd[2144]: pam_unix(sshd:session): session closed for user ben
+Oct 28 19:23:18 salvo-server sshd[2424]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 19:56:18 salvo-server sshd[2424]: pam_unix(sshd:session): session closed for user alice
+Oct 28 20:05:46 salvo-server sshd[1932]: Accepted password for david from 192.168.1.47 port 55184 ssh2
+Oct 28 20:05:47 salvo-server sshd[1932]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 20:19:46 salvo-server sshd[1932]: pam_unix(sshd:session): session closed for user david
+Oct 28 20:24:05 salvo-server sshd[2160]: Invalid user user1 from 192.0.2.147 port 58865
+Oct 28 20:24:06 salvo-server sshd[2160]: Failed password for invalid user user1 from 192.0.2.147 port 58865 ssh2
+Oct 28 20:34:06 salvo-server sshd[2026]: Accepted password for tomas from 192.168.1.49 port 44125 ssh2
+Oct 28 20:34:07 salvo-server sshd[2026]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 20:34:08 salvo-server sshd[2176]: Failed password for alice from 192.168.1.44 port 45009 ssh2
+Oct 28 20:34:32 salvo-server sshd[2202]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 20:48:32 salvo-server sshd[2202]: pam_unix(sshd:session): session closed for user priya
+Oct 28 20:56:06 salvo-server sshd[2026]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 21:11:54 salvo-server sshd[1989]: Accepted password for ben from 192.168.1.45 port 56740 ssh2
+Oct 28 21:11:55 salvo-server sshd[1989]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 21:18:58 salvo-server sshd[1829]: Accepted password for carmen from 198.51.100.23 port 45105 ssh2
+Oct 28 21:18:59 salvo-server sshd[1829]: pam_unix(sshd:session): session opened for user carmen by (uid=0)
+Oct 28 21:33:54 salvo-server sshd[1989]: pam_unix(sshd:session): session closed for user ben
+Oct 28 22:11:58 salvo-server sshd[1829]: pam_unix(sshd:session): session closed for user carmen
+Oct 28 22:20:50 salvo-server sshd[1977]: Failed password for priya from 198.51.100.178 port 56828 ssh2
+Oct 28 22:21:49 salvo-server sshd[2391]: Accepted password for david from 192.168.1.47 port 52921 ssh2
+Oct 28 22:21:50 salvo-server sshd[2391]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 22:24:00 salvo-server sshd[1993]: Accepted password for alice from 192.168.1.44 port 51466 ssh2
+Oct 28 22:24:01 salvo-server sshd[1993]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Oct 28 22:24:50 salvo-server sshd[2220]: Accepted password for ben from 192.168.1.45 port 53859 ssh2
+Oct 28 22:24:51 salvo-server sshd[2220]: pam_unix(sshd:session): session opened for user ben by (uid=0)
+Oct 28 22:36:12 salvo-server sshd[1999]: Accepted password for david from 192.168.1.47 port 57050 ssh2
+Oct 28 22:36:13 salvo-server sshd[1999]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 22:37:50 salvo-server sshd[2220]: pam_unix(sshd:session): session closed for user ben
+Oct 28 22:51:54 salvo-server sshd[2442]: pam_unix(sshd:session): session opened for user david by (uid=0)
+Oct 28 22:52:02 salvo-server sshd[1805]: pam_unix(sshd:session): session opened for user tomas by (uid=0)
+Oct 28 22:55:12 salvo-server sshd[1999]: pam_unix(sshd:session): session closed for user david
+Oct 28 23:04:00 salvo-server sshd[1993]: pam_unix(sshd:session): session closed for user alice
+Oct 28 23:07:49 salvo-server sshd[2391]: pam_unix(sshd:session): session closed for user david
+Oct 28 23:08:02 salvo-server sshd[1805]: pam_unix(sshd:session): session closed for user tomas
+Oct 28 23:08:30 salvo-server sshd[2453]: Accepted password for priya from 192.168.1.61 port 49858 ssh2
+Oct 28 23:08:31 salvo-server sshd[2453]: pam_unix(sshd:session): session opened for user priya by (uid=0)
+Oct 28 23:13:55 salvo-server sshd[1869]: Failed password for tomas from 198.51.100.86 port 52493 ssh2
+Oct 28 23:19:05 salvo-server sshd[2434]: Failed password for ben from 198.51.100.36 port 44016 ssh2
+Oct 28 23:23:54 salvo-server sshd[2442]: pam_unix(sshd:session): session closed for user david
+Oct 28 23:46:30 salvo-server sshd[2453]: pam_unix(sshd:session): session closed for user priya
